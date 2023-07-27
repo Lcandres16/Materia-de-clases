@@ -1,0 +1,7 @@
+En resumen, la ética en la IA se centra en asegurar que la tecnología se utilice de manera ética y responsable, mientras que el sesgo en la IA se refiere a la necesidad de evitar resultados injustos o discriminatorios debido a sesgos en los datos o algoritmos utilizados. La combinación de ambas consideraciones es esencial para crear una inteligencia artificial que beneficie a la sociedad en su conjunto y evite consecuencias negativas no deseadas.
+
+
+Ética en la IA: La ética en la IA se refiere a la consideración de los valores y principios morales al diseñar, implementar y utilizar sistemas de inteligencia artificial. Los creadores de IA deben tomar decisiones éticas para garantizar que estas tecnologías se utilicen de manera responsable y beneficiosa para la sociedad en general. Algunas preocupaciones éticas incluyen la privacidad de los datos, la discriminación, la transparencia, el empleo y la seguridad.
+
+Sesgo en la IA: El sesgo en la IA ocurre cuando los algoritmos y modelos de aprendizaje automático generan resultados parciales o injustos debido a datos de entrenamiento sesgados o suposiciones subyacentes. Los sesgos pueden surgir involuntariamente a partir de datos históricos que reflejan prejuicios humanos, lo que puede llevar a decisiones injustas o discriminatorias. Es importante abordar el sesgo en la IA para garantizar que los sistemas sean equitativos y justos para todas las personas, independientemente de su raza, género, religión u otras características.
+

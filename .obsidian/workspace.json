@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "7721681eec904162",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5f6fa2429eae33e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9ad329a0dfebe5fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3.Machine Learning/Introduccion/Resumen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6313205f7e6c34fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "6dd9cb518edcd5ad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7bc2140864a0a56a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0144b00850b82ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "afb137ffc36e5c0d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1d56dea269b0f5e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "fd1b38d9939ba527",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a0b1626859e362",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.Machine Learning/Introduccion/Resumen.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f60e387315e86844",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Machine Learning/Introduccion/Resumen.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caabdb6a6f04de7d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4742d4af47048be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.Machine Learning/Introduccion/Resumen.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "7bc2140864a0a56a",
+  "lastOpenFiles": [
+    "Introduccion..md",
+    "3.Machine Learning/Introduccion/Resumen.md",
+    "3.Machine Learning/Introduccion",
+    "Introduccion. 1.md",
+    "2.Introduccion a Phyton/Ejercicios/Google Colab3..md",
+    "3.Machine Learning",
+    "2.Introduccion a Phyton/Imagenes",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221419.png",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221403.png",
+    "2.Introduccion a Phyton/Ejercicios/Google Colad2..md",
+    "2.Introduccion a Phyton/Ejercicios/Google Colad..md",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221308.png",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221251.png",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221223.png",
+    "Pasted image 20230726220640.png.md",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726220520.png",
+    "Pasted image 20230726220640.png",
+    "..png",
+    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726220415.png",
+    "Pasted image 20230726220019.png.md",
+    "Pasted image 20230726215948.png.md",
+    "1.Modulo IA/01. INTRODUCCION/Introduccion.md",
+    "Pasted image 20230726220038.png",
+    "2.Introduccion a Phyton/Ejercicios",
+    "2.Introduccion a Phyton",
+    "Introduccion a Phyton.md",
+    "2.Introduccion a Phyton",
+    "1.Modulo IA/04. SALUD/Dato Curioso..md",
+    "1.Modulo IA/03. EDUCACION/Educación.md",
+    "1.Modulo IA/02. ETICA Y SESGO/Resumen..md",
+    "Modulo IA/05. SALUD",
+    "Modulo IA/Untitled.md",
+    "1.Modulo IA/04. SALUD",
+    "1.Modulo IA/03. EDUCACION",
+    "1.Modulo IA/02. ETICA Y SESGO",
+    "Untitled 1.md",
+    "Modulo IA/-ETICA Y SESGO/Untitled.canvas"
+  ]
+}
