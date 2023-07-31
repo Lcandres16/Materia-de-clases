@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5f6fa2429eae33e",
+        "id": "574545f81ea8d98a",
         "type": "tabs",
         "children": [
           {
-            "id": "9ad329a0dfebe5fc",
+            "id": "e3bc94579077ee17",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3.Machine Learning/Introduccion/Resumen.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -38,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabeticalReverse"
               }
             }
           },
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3.Machine Learning/Introduccion/Resumen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3.Machine Learning/Introduccion/Resumen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "3.Machine Learning/Introduccion/Resumen.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -148,41 +140,51 @@
   },
   "active": "7bc2140864a0a56a",
   "lastOpenFiles": [
-    "Introduccion..md",
+    "Materia-de-las-clases-2",
+    "Untitled.canvas",
+    "2023-07-31.md",
+    "7.ChatGPT API con Javascript/Untitled/Pasted image 20230731075709.png",
+    "7.ChatGPT API con Javascript/Practica/Untitled.md",
+    "7.ChatGPT API con Javascript/Untitled",
+    "7.ChatGPT API con Javascript/Untitled/Pasted image 20230731075737.png",
+    "7.ChatGPT API con Javascript/Untitled/Pasted image 20230731075643.png",
+    "7.ChatGPT API con Javascript/Untitled/Pasted image 20230731075611.png",
+    "7.ChatGPT API con Javascript/Untitled/Pasted image 20230731075604.png",
+    "5.Práctica con Teachable Machine y Javascript (snake game)/Snake game.md",
+    "6.Intslacion de API usando Nestis y Postman/API usando Nestis y Postman.md",
+    "7.ChatGPT API con Javascript/Practica/Untitled 1",
+    "6.Intslacion de API usando Nestis y Postman/Img6/WhatsApp Image 2023-07-27 at 11.07.19 AM.jpeg",
+    "Untitled.md",
+    "7.ChatGPT API con Javascript/Practica/Untitled",
+    "7.ChatGPT API con Javascript/Practica",
+    "7.ChatGPT API con Javascript",
+    "6.Intslacion de API usando Nestis y Postman/Img6",
+    "6.Intslacion de API usando Nestis y Postman/Img6/WhatsApp Image 2023-07-27 at 11.07.28 AM.jpeg",
+    "6.Intslacion de API usando Nestis y Postman/Img6/WhatsApp Image 2023-07-27 at 11.07.19 AM 1.jpeg",
+    "5.Práctica con Teachable Machine y Javascript (snake game)/img5/Pasted image 20230731074440.png",
+    "6.Intslacion de API usando Nestis y Postman",
+    "5.Práctica con Teachable Machine y Javascript (snake game)/img5/Pasted image 20230731073952.png",
+    "5.Práctica con Teachable Machine y Javascript (snake game)/img5",
+    "4.Practica en Machine Learning/Titanic/Práctica en Kaggle Titanic Machine Learning from Disastep..md",
+    "5.Práctica con Teachable Machine y Javascript (snake game)",
+    "4.Practica en Machine Learning/Titanic/Img",
+    "4.Practica en Machine Learning/Titanic/Img/g.md",
     "3.Machine Learning/Introduccion/Resumen.md",
-    "3.Machine Learning/Introduccion",
+    "4.Practica en Machine Learning.md",
+    "Introduccion..md",
     "Introduccion. 1.md",
     "2.Introduccion a Phyton/Ejercicios/Google Colab3..md",
-    "3.Machine Learning",
-    "2.Introduccion a Phyton/Imagenes",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221419.png",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221403.png",
     "2.Introduccion a Phyton/Ejercicios/Google Colad2..md",
     "2.Introduccion a Phyton/Ejercicios/Google Colad..md",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221308.png",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221251.png",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726221223.png",
     "Pasted image 20230726220640.png.md",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726220520.png",
-    "Pasted image 20230726220640.png",
-    "..png",
-    "2.Introduccion a Phyton/Imagenes/Pasted image 20230726220415.png",
     "Pasted image 20230726220019.png.md",
     "Pasted image 20230726215948.png.md",
     "1.Modulo IA/01. INTRODUCCION/Introduccion.md",
-    "Pasted image 20230726220038.png",
-    "2.Introduccion a Phyton/Ejercicios",
-    "2.Introduccion a Phyton",
     "Introduccion a Phyton.md",
-    "2.Introduccion a Phyton",
     "1.Modulo IA/04. SALUD/Dato Curioso..md",
     "1.Modulo IA/03. EDUCACION/Educación.md",
     "1.Modulo IA/02. ETICA Y SESGO/Resumen..md",
-    "Modulo IA/05. SALUD",
     "Modulo IA/Untitled.md",
-    "1.Modulo IA/04. SALUD",
-    "1.Modulo IA/03. EDUCACION",
-    "1.Modulo IA/02. ETICA Y SESGO",
     "Untitled 1.md",
     "Modulo IA/-ETICA Y SESGO/Untitled.canvas"
   ]
